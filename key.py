@@ -1,0 +1,1 @@
+WUNDER_KEY="your_wunderground_key_here"
