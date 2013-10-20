@@ -1,7 +1,9 @@
 weather
 =======
 
-Wunderground Temperature Plotter
+Wunderground Temperature Plotter - Originally this was designed to pull weather data from weather underground and plot it to track temperatures to determine the right time to tap maple trees for syrup.
+
+You'll need a weather underground api key.  You can get one for free for personal use here: http://www.wunderground.com/weather/api/
 
 Usage:
 use harvest.py to pull in temperature data for your desired locale.  You can have it grab the current data and add it to your cache or have it pull data for some other day that you specify.
