@@ -1,7 +1,13 @@
 weather
 =======
 
-Wunderground Temperature Plotter - Originally this was designed to pull weather data from weather underground and plot it to track temperatures to determine the right time to tap maple trees for syrup.
+What does it do?
+========
+A couple python utilities that pull weather data down from wunderground and create an HTML5 plot of temerature over time.
+
+Why? For maple syrup!  The general idea is to watch the day/night temperature fluctuations until you have the right kind of freezing nights and warm days that make for good tapping
+
+How? There's one script that pulls data down and stores it in a little local DB, and another script that makes a chart with the data.  You can view this chart with any modern web browser.
 
 You'll need a weather underground api key.  You can get one for free for personal use here: http://www.wunderground.com/weather/api/
 
